@@ -1,7 +1,6 @@
 ### Olá! Eu sou Pablo Almeida 👋
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
 
 - 🔭 Hoje trabalho como Fullstack
 - 🌱 Estudo React JS
@@ -51,4 +50,4 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-![snake gif](https://github.com/Pablocc0/Pablocc0/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/Pablocc0/Pablocc0/blob/output/github-contribution-grid-snake.svg) -->
