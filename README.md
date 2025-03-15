@@ -2,8 +2,8 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-- 🔭 Hoje trabalho como Fullstack
-- 🌱 Estudo React JS
+- 🔭 Hoje trabalho como Desenvolvedor Fullstack Senior
+- 🌱 Aperfeiçoando React JS, AI e Geo-Processamento
 - 😄 Pronomes: ele/dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablocc0&show_icons=true&bg_color=00000000)
